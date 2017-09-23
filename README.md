@@ -13,4 +13,6 @@ The *basic_fits.py* module provides convenience functions to construct images an
 ## Analyzing the data
 
 Finally, not to enter into too much detail, *sorting_and_max.py*, *phi_distrib.py* and *manip1.py* are used to extract meaningful information from the data, such as the gain of the detector or its modulation factor.
+
+
 I uploaded a bit of data just so you can make some tests, including a few tm files, fits files of an interesting batch for *phi_distrib*, csv files containing results of the analysis performed by *phi_distrib*, and histograms of both energy spectra and phi distributions fit to the theory using a least squares regression.
