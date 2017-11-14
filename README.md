@@ -1,6 +1,6 @@
 # CEA-data-analysis
 
-This repository holds part of my work at the CEA, during which I analyzed data from a gaseous detector called *Micromegas*, a detector still in development which aims at being an X-ray spectro-polarimeter for astrophysics (see this [article](http://iopscience.iop.org/article/10.1088/1748-0221/11/04/P04016/pdf) co authored by my internship tutor). In (very) short, this detector records events on a pixellated electronics, and my job was to analyze them. In the following, I describe (extremely briefly) the different steps of this analysis.
+This repository contains part of my work at the CEA, during which I analyzed data from a gaseous detector called *Micromegas*, a detector still in development which aims at being an X-ray spectro-polarimeter for astrophysics (see this [article](http://iopscience.iop.org/article/10.1088/1748-0221/11/04/P04016/pdf) co authored by my internship tutor). In (very) short, this detector records events on a pixellated electronics, and my job was to analyze them. In the following, I describe (extremely briefly) the different steps of this analysis.
 
 ## Converting the telemetric files to fits files
 
