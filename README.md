@@ -4,7 +4,7 @@ This repository holds part of my work at the CEA, during which I analyzed data f
 
 ## Converting the telemetric files to fits files
 
-The output of the acquisition is a batch of telemetric (.tm) files, binary data formatted in a specific way chich needs to be compressed and made more readable. To achieve this, we convert them to .fits files, a format which is widely used in astrophysics to store the data coming from detectors. This operation can be done thanks to the *hexa_to_fits.py* module : after putting the directory containing the batch of .tm files you want to convert into the TM/ directory, just copy the name of the batch into the 'batch' variable's definition.
+The output of the acquisition is a batch of telemetric (.tm) files, binary data formatted in a specific way which needs to be compressed and made more readable. To achieve this, we convert them to .fits files, a format which is widely used in astrophysics to store the data coming from detectors. This operation can be done thanks to the *hexa_to_fits.py* module : after putting the directory containing the batch of .tm files you want to convert into the TM/ directory, just copy the name of the batch into the 'batch' variable's definition.
 
 ## Constructing images of the events
 
